@@ -1,18 +1,25 @@
 {
-  "name": "discord-bot",
+  "name": "pokedollarbills_br",
   "version": "1.0.0",
-  "description": "Discord bot for SitePoint",
+  "description": "dn",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Michiel Mulders",
-  "license": "ISC",
   "dependencies": {
     "canvas": "^2.6.1",
-    "discord.js": "^11.5.1",
-    "dotenv": "^8.2.0",
     "format-currency": "^1.0.0",
     "request": "^2.81.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hayarant/PokeDollarBills_Br.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hayarant/PokeDollarBills_Br/issues"
+  },
+  "homepage": "https://github.com/Hayarant/PokeDollarBills_Br#readme"
 }
